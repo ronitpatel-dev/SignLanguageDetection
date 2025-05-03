@@ -6,6 +6,7 @@ With advancements in technology—particularly in computer vision and deep learn
 
 step1 - clone this repositor in your local machine to clone use below command
 
+git clone <repository_url>
 
 Step2 - Now you have to install all requiremets/libraries
 
