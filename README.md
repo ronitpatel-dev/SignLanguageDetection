@@ -6,3 +6,9 @@ With advancements in technology—particularly in computer vision and deep learn
 
 step1 - clone this repositor in your local machine to clone use below command
 
+
+Step2 - Now you have to install all requiremets/libraries
+
+pip install -r requirements.txt
+
+
